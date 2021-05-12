@@ -1,3 +1,5 @@
+""" Completed """
+
 from manim import *
 import math
 from scipy.integrate import quad
