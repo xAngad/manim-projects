@@ -6,4 +6,10 @@
   </a>
 </p>
 
-A repository for source code of animations I make using Manim.
+<p>
+  A repository for source code of animations I make using Manim.
+</p>
+
+<p>
+  Most of the animations are made using <a href = "https://github.com/ManimCommunity/manim"> Manim Community Edition </a>, maintained by members of the Manim community, not 3b1b.
+</p>
