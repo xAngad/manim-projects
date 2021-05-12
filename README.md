@@ -11,5 +11,5 @@
 </p>
 
 <p>
-  Most of the animations are made using <a href = "https://github.com/ManimCommunity/manim"> Manim Community Edition </a>, maintained by members of the Manim community, not 3b1b.
+  Most of the animations are made using <a href = "https://github.com/ManimCommunity/manim"> Manim Community Edition </a>.
 </p>
