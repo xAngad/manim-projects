@@ -1,4 +1,4 @@
-""" Completed """
+""" ManimCE """
 
 from manim import *
 import math
